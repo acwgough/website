@@ -33,4 +33,4 @@ highlight_name: true
 ---
 I'm a second year PhD student at Newcastle University. Formally my PhD is in mathematics, but at heart I'm a physicist, and my research is focused on understanding the large scale structure of the Universe. In particular I study dark matter dynamics in the non-linear regime, and work on using and developing new statistical techniques for extracting cosmological information. I work in both the [theoretical cosmology](https://blogs.ncl.ac.uk/cosmology/) and [observational astronomy](https://blogs.ncl.ac.uk/astro-obs/) groups at Newcastle with my supervisor [Cora Uhlemann](https://www.staff.ncl.ac.uk/corauhlemann/).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/assets/Alex_Gough_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
